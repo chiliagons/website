@@ -35,7 +35,7 @@ const FeatsPage = () => {
             </Accordion.Header>
             <Accordion.Body>
               Connext Network sponsor prize at ETHGlobal Scaling Ethereum Hackathon.<br />
-              Last Modified on : 04-10-2022<br />
+              Last Modified on : 04-10-2021<br />
                <Link text="Click Here" url="https://gnuswap-chiliagons.vercel.app/" leavesPage={true} />
             </Accordion.Body>
             </Accordion.Item>
